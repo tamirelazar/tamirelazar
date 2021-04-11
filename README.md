@@ -1,5 +1,5 @@
-## Welcome
-I have been expecting you.
+# Welcome
+I have been expecting you. Make yourself at home.
 
 ## What I Know
 
