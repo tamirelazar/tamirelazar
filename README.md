@@ -3,11 +3,16 @@
 
 ---------------------------------------
 ## Whoami
+A pretty nice guy.
+
+### Whoami [Extended Version]
 -  **Working on :** B.Sc Computer Science | M.F.A Photography
 -  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
 -  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
 -  **Fun fact :** This README is what I work on to procrastinate during class. 
 -  **Pronouns :** I'll be whatever you want me to be 😘
+
+--------------------------------------
 
 ### I code using these tools
 
