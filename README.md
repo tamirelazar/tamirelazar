@@ -42,3 +42,6 @@ A pretty nice guy.
 
 ## I listen to this music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&redirect=true)
+
+## I have very strong feelings about
+Vim. The feelings are: burning hatred, humbled awe, painful frustration and (rarely) the joy of success.
