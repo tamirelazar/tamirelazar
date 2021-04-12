@@ -9,7 +9,7 @@ A pretty nice guy.
 -  **Working on :** B.Sc Computer Science | M.F.A Photography
 -  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
 -  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
--  **Fun fact :** This README is what I work on to procrastinate during class. 
+-  **Coffee :** YES
 -  **Pronouns :** I'll be whatever you want me to be 😘
 
 --------------------------------------
