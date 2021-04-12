@@ -14,7 +14,7 @@ A pretty nice guy.
 
 --------------------------------------
 
-### I code using these tools
+## I code using these tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black) 
 
@@ -33,12 +33,12 @@ A pretty nice guy.
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=Mathworks&labelColor=black) 
 
 
-### I create using these tools
+## I create using these tools
 ![Lightroom](https://img.shields.io/badge/-_Adobe_Lightroom-31A8FF?style=flat&logo=Adobe-Lightroom&labelColor=black) 
 
 ![Premier](https://img.shields.io/badge/-_Adobe_Premiere_Pro-9999FF?style=flat&logo=Adobe-Premiere-Pro&labelColor=black)
 
 ![Ableton](https://img.shields.io/badge/-_Ableton_Live-000000?style=flat&logo=Ableton-Live&labelColor=black)
 
-### I listen to this music
+## I listen to this music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&redirect=true)
