@@ -45,4 +45,5 @@ A pretty nice guy.
 
 ## I have very strong feelings about
 Vim. 
+
 The feelings are: burning hatred, humbled awe, painful frustration and (rarely) the joy of success.
