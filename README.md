@@ -18,15 +18,17 @@ A pretty nice guy.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=black) 
 
-![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&labelColor=black) 
-
 ![C](https://img.shields.io/badge/-C,_C++-A8B9CC?style=flat&logo=c&labelColor=black&) 
 
 ![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&labelColor=black) 
 
+![qemu](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=QEMU&labelColor=black) 
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&labelColor=black) 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&labelColor=black) 
+
+![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&labelColor=black) 
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&labelColor=black) 
 
