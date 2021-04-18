@@ -10,7 +10,7 @@ A pretty nice guy.
 -  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
 -  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
 -  **Coffee :** YES
--  **Pronouns :** I'll be whatever you want me to be 😘
+-  **Pronouns :** I'll be whatever you want me to be
 
 --------------------------------------
 
