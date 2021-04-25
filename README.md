@@ -6,7 +6,7 @@
 A pretty nice guy.
 
 ### Whoamireally
--  **Working on :** B.Sc Computer Science | M.F.A Photography
+-  **Working on :** B.Sc Computer Science | B.F.A Photography
 -  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
 -  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
 -  **Coffee :** YES
