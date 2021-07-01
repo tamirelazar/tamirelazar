@@ -10,7 +10,6 @@ A pretty nice guy.
 -  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
 -  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
 -  **Coffee :** YES
--  **Pronouns :** I'll be whatever you want me to be
 
 ## Contact Me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamir-elazar)
