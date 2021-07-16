@@ -7,8 +7,8 @@ A pretty nice guy.
 
 ### Whoamireally
 -  **Working on :** B.Sc Computer Science | B.F.A Photography
--  **Self Learning :** Image Processing | Computer Vision | Open-Source Development
--  **Projects in Progress:** Family Sonification | Multi-Exp Module for Canon 650D | Writing an Original Script
+-  **Currently Self Learning :** Computation of 3D Geometry from Images | HDR Image Processing | DryOS and Lua
+-  **Projects in Progress:** Family Sonification | Contribute to Magic Lantern project | Secret Stuff
 -  **Coffee :** YES
 
 ## Contact Me
