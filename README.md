@@ -49,4 +49,4 @@ A pretty nice guy.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&redirect=true)
 
 ## I currently have very strong feelings about
-Thunder Road, by Jim Cummings. Greatest indie movie i've seen in years.
+Joan As Police Woman!
