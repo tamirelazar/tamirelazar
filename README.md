@@ -45,8 +45,6 @@ A pretty nice guy.
 
 ![Ableton](https://img.shields.io/badge/-_Ableton_Live-000000?style=flat&logo=Ableton-Live&labelColor=black)
 
-## I listen to this music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21ujpbe44jc2cl6ll2lyl2kpi&redirect=true)
 
 ## I currently have very strong feelings about
-Joan As Police Woman!
+Joan As Police Woman
