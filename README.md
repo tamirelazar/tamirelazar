@@ -1,7 +1,3 @@
-### Tamir Elazar
-
-builds novel interactive systems. Not sure why.
-
 ### Here
 
 - [**tslime**](https://github.com/tamirelazar/tslime) · Rust  
