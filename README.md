@@ -8,5 +8,5 @@
 
 ### Elsewhere
 
-- [tamir.digital](https://tamir.digital) — full portfolio (visual art · photography · performance)
+- [tamir.digital](https://tamir.digital) — art & creative portfolio (visual · photography · performance)
 - [contact@tamir.digital](mailto:tamir.elazar@gmail.com)
